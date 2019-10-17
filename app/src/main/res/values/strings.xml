@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sports Profile</string>
+    <string name="hint">(Please enter a team name)</string>
+    <string name="teamNameTextView">Your Name</string>
+    <string name="location">Your Location</string>
+    <string name="locationHint">(Please enter a Postal Code)</string>
+    <string name="btn00">Done</string>
+    <string name="btn01">Done</string>
+    <string name="mapbtn">Open Map</string>
+</resources>
